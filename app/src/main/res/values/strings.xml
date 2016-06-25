@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Фасахов Альберт</string>
+    <string name="about_self_text">We are the best.</string>
+    <string name="about_self_hint">О себе</string>
+    <string name="git_repository_text">github.com/albert2000/DevIntensive</string>
+    <string name="git_repository_hint">Репозиторий</string>
+    <string name="profile_vk_text">vk.com/id2490217</string>
+    <string name="profile_vk_hint">Профиль в VK</string>
+    <string name="email_text">arfasakhov@gmail.com</string>
+    <string name="email_hint">E-mail</string>
+    <string name="phone_text">+79600xxxxxx</string>
+    <string name="phone_hint">Мобильный</string>
+    <string name="projects_label">Проектов</string>
+    <string name="projects_value_label">5</string>
+    <string name="code_row_label">Написано строк кода</string>
+    <string name="code_row_value_label">5</string>
+    <string name="rating_label">Рейтинг</string>
+    <string name="rating_value_label">5</string>
 </resources>
